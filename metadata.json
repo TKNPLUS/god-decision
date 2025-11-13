@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Decision Maker",
+  "description": "Ask a question and get a random 'yes', 'no', or 'maybe' answer. An AI will then generate a creative reason for the decision.",
+  "requestFramePermissions": []
+}
